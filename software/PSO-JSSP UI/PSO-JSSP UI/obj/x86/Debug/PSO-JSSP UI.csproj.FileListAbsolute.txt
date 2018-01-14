@@ -1,0 +1,14 @@
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\Debug\PSO-JSSP UI.exe
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\Debug\PSO-JSSP UI.pdb
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x86\Debug\PSO_JSSP_UI.Form1.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x86\Debug\PSO_JSSP_UI.Properties.Resources.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x86\Debug\PSO-JSSP UI.csproj.GenerateResource.Cache
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x86\Debug\PSO-JSSP UI.exe
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x86\Debug\PSO-JSSP UI.pdb
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x86\Debug\PSO_JSSP_UI.Settings.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x86\Debug\PSO_JSSP_UI.Results.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\Debug\PSO-JSSP UI.exe.config
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x86\Debug\PSO-JSSP UI.csprojResolveAssemblyReference.cache
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x86\Debug\PSO_JSSP_UI.CustomerAdmin.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x86\Debug\PSO_JSSP_UI.CustomerOrdin.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\Debug\FT06_6c6.dll

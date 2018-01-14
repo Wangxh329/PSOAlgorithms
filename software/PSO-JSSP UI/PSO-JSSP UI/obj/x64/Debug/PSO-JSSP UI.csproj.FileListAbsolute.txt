@@ -1,0 +1,22 @@
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\x64\Debug\PSO-JSSP UI.exe.config
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\x64\Debug\PSO-JSSP UI.exe
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\x64\Debug\PSO-JSSP UI.pdb
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x64\Debug\PSO_JSSP_UI.CustomerAdmin.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x64\Debug\PSO_JSSP_UI.CustomerOrdin.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x64\Debug\PSO_JSSP_UI.Form1.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x64\Debug\PSO_JSSP_UI.Properties.Resources.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x64\Debug\PSO_JSSP_UI.Results.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x64\Debug\PSO_JSSP_UI.Settings.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x64\Debug\PSO-JSSP UI.csproj.GenerateResource.Cache
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x64\Debug\PSO-JSSP UI.exe
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x64\Debug\PSO-JSSP UI.pdb
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\x64\Debug\FT06_6c6.dll
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x64\Debug\PSO_JSSP_UI.GanttImage.resources
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\obj\x64\Debug\PSO-JSSP UI.csprojResolveAssemblyReference.cache
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\x64\Debug\FT10_10c10.dll
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\x64\Debug\FT20_20c5.dll
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\x64\Debug\LA01_10c5.dll
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\x64\Debug\LA21_15c10.dll
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\x64\Debug\LA26_20c10.dll
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\x64\Debug\LA31_30c10.dll
+D:\My Documents\lenovo\Desktop\毕设\4 程序开发\PSO-JSSP UI\PSO-JSSP UI\bin\x64\Debug\LA36_15c15.dll
